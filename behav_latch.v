@@ -1,5 +1,5 @@
 `timescale 1ns/1ps
-//version 1
+//version 2
 module latch(input clk,
              input d,
              output reg q,
