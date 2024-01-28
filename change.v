@@ -1,5 +1,5 @@
 `timescale 1ns/2ps
-//version 4 a bit of work
+//version 5 a bit of work
 module latch(input clk,
              input d,
              output reg q,
